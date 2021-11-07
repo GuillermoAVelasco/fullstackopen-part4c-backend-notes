@@ -1,0 +1,8 @@
+POST  http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content":"Prueba de carga de notas 2",
+    "important":false,
+    "userId":"61885bd30bf5e40e45a29e90"
+}
